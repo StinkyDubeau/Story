@@ -4,4 +4,4 @@ Pyro text.
 
 WoooooOOooooo.
 
-Experimantal branch.
+Experimental branch.
