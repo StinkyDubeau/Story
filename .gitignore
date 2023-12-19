@@ -1,0 +1,8 @@
+
+
+
+# git ignore has some syntax. This is a comment.
+# *.txt     // This is a wildcard. This would ignore all text files.
+
+# Each line item is a file that will be ignored.
+secrets.txt
